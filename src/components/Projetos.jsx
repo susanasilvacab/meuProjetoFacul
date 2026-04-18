@@ -3,7 +3,7 @@ import projetos from "../data/projetos.json";
 
 function Projetos() {
   return (
-    <section>
+    <section style={{ padding: "20px" }}>
       <h2>Meus Projetos</h2>
 
       {projetos.map((projeto) => (

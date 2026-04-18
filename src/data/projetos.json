@@ -8,13 +8,13 @@
   {
     "id": 2,
     "nome": "API de Serviços",
-    "descricao": "API REST para serviços prestados",
-    "tecnologia": "Spring Boot"
+    "descricao": "API REST com Spring Boot",
+    "tecnologia": "Java"
   },
   {
     "id": 3,
-    "nome": "Portfólio Web",
-    "descricao": "Meu portfólio pessoal",
+    "nome": "Portfólio React",
+    "descricao": "Portfólio moderno com React",
     "tecnologia": "React"
   }
 ]
